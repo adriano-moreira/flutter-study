@@ -1,0 +1,5 @@
+.idea
+*.iml
+.firebase
+.dart_tool
+build
